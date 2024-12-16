@@ -1,8 +1,7 @@
 # Hey there, I'm Eden. 👋
 I'm an ametour dev from Poland. I usually make random projects in Python.
 
-Currently, I'm trying to learn Geometry Dash modding through Geode and just C++ in general.
-
-You can reach out to me on Discord (TheRealEdenGD), or [Bluesky](https://bsky.app/profile/edengd.bsky.social).
-
-[![EdenGD's GitHub stats](https://github-readme-stats.vercel.app/api?username=edengd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+You can reach out to me in following ways:
+ - Discord: TheRealEdenGD
+ - Bluesky: [edengd.bsky.social](https://bsky.app/profile/edengd.bsky.social)
+ - E-Mail: [contact.edengd@protonmail.com](mailto:contact.edengd@protonmail.com)
